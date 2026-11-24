@@ -1,0 +1,2 @@
+Alternative ports: [41165, 50851]; timeout=.4; version=7; limit=128
+Demo OK; results/node1.log, results/node2.log

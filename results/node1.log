@@ -1,0 +1,5 @@
+2026-11-24 21:22:35,449 INFO node READY 127.0.0.1:8001
+2026-11-24 21:22:36,143 INFO node PING received id=5ba0e2379a124e0996ab41bbb0f0297e
+2026-11-24 21:22:36,143 INFO node PONG sent id=5ba0e2379a124e0996ab41bbb0f0297e
+2026-11-24 21:22:36,143 INFO node peer disconnected
+2026-11-24 21:22:38,281 WARNING node connection rejected: TimeoutError 

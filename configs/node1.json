@@ -1,0 +1,11 @@
+{
+  "name": "node1",
+  "host": "127.0.0.1",
+  "port": 8001,
+  "peer_port": 8002,
+  "timeout": 2,
+  "version": 1,
+  "MAX_FRAME_PAYLOAD": 65536,
+  "max_connections": 8,
+  "max_frames": 1000
+}

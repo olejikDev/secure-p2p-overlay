@@ -1,0 +1,38 @@
+{
+  "source": "User-provided terminal output from original stage1, not v2",
+  "python": "3.12.3",
+  "test_runs": [
+    {
+      "passed": 9,
+      "seconds": 0.757
+    },
+    {
+      "passed": 9,
+      "seconds": 0.844
+    }
+  ],
+  "benchmark_runs": [
+    {
+      "operations_per_format": 10000,
+      "JSON": {
+        "mean_bytes": 648.92,
+        "total_seconds": 0.28922309999961726
+      },
+      "MessagePack": {
+        "mean_bytes": 638.77,
+        "total_seconds": 0.1354892999997901
+      }
+    },
+    {
+      "operations_per_format": 10000,
+      "JSON": {
+        "mean_bytes": 648.92,
+        "total_seconds": 0.27514309999969555
+      },
+      "MessagePack": {
+        "mean_bytes": 638.77,
+        "total_seconds": 0.1249594999999317
+      }
+    }
+  ]
+}
