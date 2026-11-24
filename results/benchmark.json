@@ -1,15 +1,15 @@
 {
-  "python": "3.13.5",
+  "python": "3.12.3",
   "results": {
     "JSON": {
       "operations": 10000,
       "mean_bytes": 648.92,
-      "total_seconds": 0.0743205730000227
+      "total_seconds": 0.3053859999999986
     },
     "MessagePack": {
       "operations": 10000,
       "mean_bytes": 638.77,
-      "total_seconds": 0.019640552999817373
+      "total_seconds": 0.1381149999997433
     }
   }
 }
